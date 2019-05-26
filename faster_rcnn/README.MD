@@ -6,9 +6,8 @@
 
 ### begin training
 
-\
 ```bash
-python train_cloth.py 
+python train.py 
 ```
 
 you may change the hyperparameter in `utils/config.py`.
